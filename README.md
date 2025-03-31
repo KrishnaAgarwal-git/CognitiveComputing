@@ -1,2 +1,2 @@
 # CognitiveComputing
-Assignmets
+Assignments
